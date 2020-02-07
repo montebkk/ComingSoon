@@ -7,5 +7,6 @@
     "test": "standard"
   },
   "author": "Monte Leng",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
