@@ -1,0 +1,11 @@
+{
+  "name": "comingsoon",
+  "version": "1.0.0",
+  "description": "monteleng.net coming soon landing page",
+  "main": "index.html",
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "Monte Leng",
+  "license": "MIT"
+}
